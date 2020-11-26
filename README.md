@@ -312,27 +312,61 @@ Generamos siete distintos casos de prueba:
 
 El primer caso involucra programas que generan el deadlock básico que vimos en la iteración 4.
 
-// Fotos relevantes al primer caso
+<img src="imagenes_readme/prueba1_casos.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 El segundo y tercer caso involucra programas que genera deadlocks más controvertidos, en los cuáles más recursos están involucrados y la ejecución es más mezclada.
 
-// Fotos relevantes al seg y ter caso
+<img src="imagenes_readme/prueba2_casos.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+Tercer caso
+
+<img src="imagenes_readme/prueba3_casos.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 El cuarto es una prueba sobre permisos de Usuarios, en el mísmo generamos varios Usuarios con distintos permisos sobre distintos Procesos y Recursos
 
-// Fotos relevantes al cuarto caso
+<img src="imagenes_readme/prueba4_casos1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+<img src="imagenes_readme/prueba4_casos2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 El quinto es una prueba sobre el sistema de particiones en memoria. Generamos muchos procesos con programas cortos y esperamos que alamacene todos y deje algunos en espera.
 
-// Fotos relevantes al quinto caso
+<img src="imagenes_readme/prueba5_casos1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+<img src="imagenes_readme/prueba5_casos2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 El sexto es otra prueba de memoria, pero un poco más extrema. Creamos 11 procesos de un mismo programa, esto debería de degenerar la ejecución a una lista de espera en la partición.
 
-// Fotos relevantes al sexto caso
+<img src="imagenes_readme/prueba6_casos1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+<img src="imagenes_readme/prueba6_casos2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 La séptima y última prueba es más general é involucra varios de estos elementos al mismo tiempo.
 
-// Fotos relevantes al ultimo caso
+<img src="imagenes_readme/prueba6_casos1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+<img src="imagenes_readme/prueba6_casos2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ### GUÍA DE COLORES FINAL:
 - Verde: Manejo de Procesos y Schedulling.
