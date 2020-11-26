@@ -12,8 +12,9 @@
 
 ## TECNOLOGIA:
 
-Nosotros para realizar la simulacion, utilizamos el lenguaje de programacion JAVA en su última version (buscarversion). Codificamos en VSCode y mantuvimos un versionado por un repositorio en GitHub.
+Nosotros para realizar la simulacion, utilizamos el lenguaje de programacion JAVA en su última version (java 11.0.9). Codificamos en VSCode y mantuvimos un versionado por un repositorio en GitHub.
 
+Se necesita una version de java runtime mayor o igual a 59.0
 ## ACERCAMIENTO AL PROBLEMA
 
 Para afrontar este problema planteamos la implementación que le dariamos a cada componente del sistema:
@@ -368,6 +369,15 @@ La séptima y última prueba es más general é involucra varios de estos elemen
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+A continuacion los permisos generados para todos los casos para usuarios:
+
+<img src="imagenes_readme/pruebaPermisos1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+<img src="imagenes_readme/pruebaPermisos2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ### GUÍA DE COLORES FINAL:
 - Verde: Manejo de Procesos y Schedulling.
 - Cyan: Cambio de estado de los Procesos.
