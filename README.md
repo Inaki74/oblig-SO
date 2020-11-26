@@ -14,7 +14,7 @@
 
 Nosotros para realizar la simulacion, utilizamos el lenguaje de programacion JAVA en su última version (java 11.0.9). Codificamos en VSCode y mantuvimos un versionado por un repositorio en GitHub.
 
-Se necesita una version de java runtime mayor o igual a 59.0
+Nota: Para correr el ejecutable se necesita Se necesita una versión de java runtime mayor o igual a 59.0 (java SE 15)
 ## ACERCAMIENTO AL PROBLEMA
 
 Para afrontar este problema planteamos la implementación que le dariamos a cada componente del sistema:
