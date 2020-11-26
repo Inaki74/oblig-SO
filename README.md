@@ -343,3 +343,6 @@ La séptima y última prueba es más general é involucra varios de estos elemen
 - Rojo: Errores que no deberían de ocurrir y deadlocks.
 - Violeta: Manejo de Permisos de Usuarios.
 - Naranja: Manejo de memoria.
+
+### CONCLUSIONES
+El desarrollo de este simulador nos ayudó a fortalecer los conceptos vistos en clase. No fue tanto la programación lo interesante de este proyecto, sino las discusiones que provocó entre integrantes del grupo y como fuimos capaces de llevar a la aplicación estos conceptos. En conclusión, el grupo se lleva los conocimientos adquiridos y satisfacción por haber logrado crearlo.
